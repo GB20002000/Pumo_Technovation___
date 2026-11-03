@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Pumo" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/pumo_bg</item>
+        <item name="android:statusBarColor">@color/pumo_bg</item>
+        <item name="android:navigationBarColor">@color/pumo_bg</item>
+    </style>
+</resources>
